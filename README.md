@@ -1,16 +1,18 @@
-## Hi there 👋
+### `> ./an_nguyen.exe`
+`Loading... 100%`
 
-<!--
-**aansensei/aansensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class AnNguyen:
+    def __init__(self):
+        self.majors = ["Data Science", "Economics"]
+        self.location = "UW-Madison 🦡"
+        self.hobbies = ["Game Dev", "Web Scraping", "Violin & Piano", "Esports"]
+        
+    def current_status(self):
+        if coding_bugs > 0:
+            return "Crying in Python 🐍"
+        else:
+            return "Analyzing Macroeconomics 📈"
+            
+    def fun_fact(self):
+        return "I can 'All-Perfect' rhythm games of any genre, but I still can't perfectly run my Python scripts on the first try. 🎵"
