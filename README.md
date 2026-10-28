@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="assets/terminal.svg" alt="A terminal runs ./an_nguyen.exe, a loading bar reaches 100%, and a Python class AnNguyen is typed out: majors Data Science and Economics, location UW-Madison, hobbies Game Dev, Web Scraping, Violin and Piano, Esports." width="780">
+</div>
+
+<details>
+<summary>Plain text version</summary>
+
 ### `> ./an_nguyen.exe`
 `Loading... 100%`
 
@@ -7,12 +14,15 @@ class AnNguyen:
         self.majors = ["Data Science", "Economics"]
         self.location = "UW-Madison 🦡"
         self.hobbies = ["Game Dev", "Web Scraping", "Violin & Piano", "Esports"]
-        
+
     def current_status(self):
         if coding_bugs > 0:
             return "Crying in Python 🐍"
         else:
             return "Analyzing Macroeconomics 📈"
-            
+
     def fun_fact(self):
         return "I can 'All-Perfect' rhythm games of any genre, but I still can't perfectly run my Python scripts on the first try. 🎵"
+```
+
+</details>
