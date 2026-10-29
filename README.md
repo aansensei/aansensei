@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/terminal.svg" alt="A shell runs ./an_nguyen.exe and writes a Python file an_nguyen.py while a loading bar reaches 100 percent, then cat prints it: a Python class AnNguyen with majors Data Science and Economics, location UW-Madison, hobbies Game Dev, Web Scraping, Violin and Piano, Esports." width="780">
+  <img src="assets/terminal.svg?v=2" alt="A shell runs ./an_nguyen.exe and writes a Python file an_nguyen.py while a loading bar reaches 100 percent, then cat prints it: a Python class AnNguyen with majors Data Science and Economics, location UW-Madison, hobbies Game Dev, Web Scraping, Violin and Piano, Esports." width="780">
 </div>
 
 <details>
